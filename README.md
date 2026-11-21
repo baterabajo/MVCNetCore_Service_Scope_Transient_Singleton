@@ -1,5 +1,5 @@
 ## AddScoped vs AddTransient vs AddSingleton in ASP .NET Core MVC | ASPNETCOREMVC.
-##-Base de Datos CrudApDbFirst sql Sql Server
+## Base de Datos CrudApDbFirst sql Sql Server
 ### Tecnologías utilizadas
 
 
