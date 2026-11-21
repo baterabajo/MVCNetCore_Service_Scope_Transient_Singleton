@@ -1,0 +1,1 @@
+# MVCNetCore_Service_Scope_Transient_Singleton
