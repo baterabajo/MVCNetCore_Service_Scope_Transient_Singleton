@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=vDJMzs1OYqo
 <summary>Ver Prueba  AddScoped vs AddTransient vs AddSingleto</summary>
 
 
-  ![Sin título](Images/Sin%20t%C3%ADtulo.png)
+  ![Sin título](MVCNetCore_Service_Scope_Transient_Singleton/Images/Sin%20t%C3%ADtulo.png)
 
 </details>
 
