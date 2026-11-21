@@ -1,0 +1,27 @@
+﻿<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Add Singleton-It creates a single object and reuses it throughout the entire lifetime of the application.</th>
+            <th>Add Trasient-Creates a new object each time it is requested.</th>
+            <th>Add Scoped-Create an object for each HTTP request.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">1.</td>
+            <td>@ViewBag.SingletonMessage <br /> Count: @ViewBag.SingletonCount</td>
+            <td>@ViewBag.TransientMessage <br /> Count: @ViewBag.TransientCount</td>
+            <td>@ViewBag.ScopedMessage <br /> Count: @ViewBag.ScopedCount</td>
+        </tr>
+
+        <tr>
+            <td scope="row">2.</td>
+            <td>@ViewBag.SingletonMessage2 <br /> Count: @ViewBag.SingletonCount2</td>
+            <td>@ViewBag.TransientMessage2 <br /> Count: @ViewBag.TransientCount2</td>
+            <td>@ViewBag.ScopedMessage2 <br /> Count: @ViewBag.ScopedCount2</td>
+        </tr>
+
+    </tbody>
+    </table>
+
